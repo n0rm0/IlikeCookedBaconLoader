@@ -8,7 +8,7 @@ local response = HttpService:RequestAsync({
     Url = "https://raw.githubusercontent.com/n0rm0/IlikeCookedBacon/main/main.lua",
     Method = "GET",
     Headers = {
-        ["Authorization"] = "token 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",
+        ["Authorization"] = "token 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",
         ["Accept"] = "application/vnd.github.v3.raw"
     }
 })
